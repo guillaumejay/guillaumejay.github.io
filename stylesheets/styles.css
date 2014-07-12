@@ -200,7 +200,7 @@ th {
 
 td {
   padding: 10px;
-	background: #ccc;
+	/*background: #ccc;*/
  }
 
 
@@ -317,7 +317,7 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-  width:650px;
+  width:700px;
   float:right;
   padding-bottom:50px;
 }
